@@ -1,0 +1,10 @@
+c:\users\agnes\documents\visual studio 2013\Projects\POD_2\POD_2\bin\Debug\POD_2.exe.config
+c:\users\agnes\documents\visual studio 2013\Projects\POD_2\POD_2\bin\Debug\POD_2.exe
+c:\users\agnes\documents\visual studio 2013\Projects\POD_2\POD_2\bin\Debug\POD_2.pdb
+c:\users\agnes\documents\visual studio 2013\Projects\POD_2\POD_2\obj\Debug\POD_2.csprojResolveAssemblyReference.cache
+c:\users\agnes\documents\visual studio 2013\Projects\POD_2\POD_2\obj\Debug\POD_2.Form1.resources
+c:\users\agnes\documents\visual studio 2013\Projects\POD_2\POD_2\obj\Debug\POD_2.Form2.resources
+c:\users\agnes\documents\visual studio 2013\Projects\POD_2\POD_2\obj\Debug\POD_2.Properties.Resources.resources
+c:\users\agnes\documents\visual studio 2013\Projects\POD_2\POD_2\obj\Debug\POD_2.csproj.GenerateResource.Cache
+c:\users\agnes\documents\visual studio 2013\Projects\POD_2\POD_2\obj\Debug\POD_2.exe
+c:\users\agnes\documents\visual studio 2013\Projects\POD_2\POD_2\obj\Debug\POD_2.pdb
